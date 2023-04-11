@@ -119,7 +119,7 @@ int main() {
 	}
 
 	/*Cube cube(Material::mix(Material::gold, Material::bronze), glm::vec3(0.0f, 0.0f, -1.f), glm::vec3(0.75f));
-	cube.init();*/
+	cube.init(); */
 
 
 
